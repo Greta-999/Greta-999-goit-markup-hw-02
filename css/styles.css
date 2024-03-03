@@ -82,10 +82,6 @@ li {
 .button-link:focus {
   color: #404bbf;
 }
-.strategy-link:hover,
-.strategy-link:focus {
-  background-color: #404bbf;
-}
 
 .name-link {
   font-weight: 500;
