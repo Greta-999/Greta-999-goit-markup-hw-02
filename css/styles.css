@@ -52,7 +52,7 @@ li {
 .efect-link {
   background-color: #2e2f42;
 }
-.h1-link {
+.h-link {
   background-color: #2e2f42;
   font-weight: 700;
   font-size: 56px;
@@ -61,8 +61,8 @@ li {
   color: #fff;
   text-align: center;
 }
-.h1-linkp:hover,
-.h1-link:focus {
+.h-linkp:hover,
+.h-link:focus {
   background-color: #404bbf;
 }
 .button-link {
@@ -78,6 +78,11 @@ li {
 .button-link:fokus {
   color: #404bbf;
 }
+.strategy-link:hover,
+.strategy-link:focus {
+  background-color: #404bbf;
+}
+
 .name-link {
   font-weight: 500;
   font-size: 20px;
@@ -115,6 +120,9 @@ li {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.port-link {
+  background-color: #f4f4fd;
 }
 .portfolio-link {
   font-weight: 700;
