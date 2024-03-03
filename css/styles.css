@@ -124,7 +124,9 @@ li {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+.port-link {
+  background-color: #ffffff;
+}
 .portfolio-link {
   font-weight: 700;
   font-size: 36px;
