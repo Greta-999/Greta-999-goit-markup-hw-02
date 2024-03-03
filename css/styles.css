@@ -75,11 +75,11 @@ li {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  background-color: #fff;
+  color: #fff;
   cursor: pointer;
 }
 .button-link:hover,
-.button-link:fokus {
+.button-link:focus {
   color: #404bbf;
 }
 .strategy-link:hover,
