@@ -61,6 +61,10 @@ li {
   color: #fff;
   text-align: center;
 }
+.h1-linkp:hover,
+.h1-link:focus {
+  background-color: #404bbf;
+}
 .button-link {
   background: #4d5ae5;
   font-weight: 500;
