@@ -80,7 +80,7 @@ li {
 }
 .button-link:hover,
 .button-link:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .name-link {
