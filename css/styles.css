@@ -97,6 +97,9 @@ li {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.our-link {
+  background-color: #f4f4fd;
+}
 .team-link {
   font-weight: 700;
   font-size: 36px;
@@ -121,9 +124,7 @@ li {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.port-link {
-  background-color: #f4f4fd;
-}
+
 .portfolio-link {
   font-weight: 700;
   font-size: 36px;
