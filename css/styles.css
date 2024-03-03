@@ -52,6 +52,10 @@ li {
 .efect-link {
   background-color: #2e2f42;
 }
+.efect-link:hover,
+.efect-link.button-link:fokus {
+  background-color: #404bbf;
+}
 .h-link {
   background-color: #2e2f42;
   font-weight: 700;
@@ -124,9 +128,7 @@ li {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.potrfolio-list {
-  background-color: #ffffff;
-}
+
 .portfolio-link {
   font-weight: 700;
   font-size: 36px;
